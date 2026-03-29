@@ -30,4 +30,8 @@ Sau 15 epochs huấn luyện, mô hình đã đạt được những chỉ số 
 ## 💻 Hướng dẫn chạy thử (How to Run)
 1. Clone repository này về máy:
    ```bash
-   git clone [https://github.com/TEN_GITHUB_CUA_BAN/TEN_REPO_CUA_BAN.git](https://github.com/TEN_GITHUB_CUA_BAN/TEN_REPO_CUA_BAN.git)
+   git clone [https://github.com/user2001230258/Pneumonia_Detection_ResNet.git](https://github.com/user2001230258/Pneumonia_Detection_ResNet.git)
+2. Cài đặt các thư viện cần thiết:
+   ```bash
+   pip install torch torchvision matplotlib scikit-learn pillow
+3. Mở file resnet_transfer_learning.ipynb trên Jupyter Notebook hoặc Google Colab để chạy lại quá trình huấn luyện hoặc thử dự đoán với một bức ảnh mới.
