@@ -24,7 +24,6 @@ Sau 15 epochs huấn luyện, mô hình đã đạt được những chỉ số 
   > *Ghi chú Y tế: Trong chẩn đoán y khoa, việc tránh bỏ sót bệnh nhân (Âm tính giả) là ưu tiên hàng đầu. Với Recall lên tới 96%, hệ thống chỉ bỏ sót vỏn vẹn 16/390 ca bệnh thực tế. Việc dự đoán nhầm một số ca khỏe mạnh thành viêm phổi (Dương tính giả) nằm trong mức an toàn để bác sĩ chỉ định xét nghiệm chuyên sâu thêm.*
 
 ### Ma trận nhầm lẫn (Confusion Matrix)
-*(Ghi chú cho HoangHoan17: Cập nhật lại đường dẫn ảnh bên dưới sau khi bạn upload bức ảnh Confusion Matrix lên thư mục của GitHub nhé)*
 ![Confusion Matrix](./assets/confusion_matrix.png)
 
 ## 💻 Hướng dẫn chạy thử (How to Run)
